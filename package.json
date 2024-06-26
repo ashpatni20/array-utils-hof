@@ -1,0 +1,25 @@
+{
+  "name": "array-utils-hof",
+  "version": "1.0.0",
+  "description": "an npm package containes array utilities with higer-order-functions",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashpatni20/array-utils-hof.git"
+  },
+  "keywords": [
+    "npm",
+    "arrays",
+    "hof"
+  ],
+  "author": "aishwarya patni",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ashpatni20/array-utils-hof/issues"
+  },
+  "homepage": "https://github.com/ashpatni20/array-utils-hof#readme"
+}
